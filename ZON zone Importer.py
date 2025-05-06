@@ -1,6 +1,6 @@
 bl_info = {
     "name": "ZON Zone Importer/Exporter",
-    "author": "MadGamerHD",
+    "author": "MadGamer HD",
     "version": (1, 2),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > Zone Importer",
